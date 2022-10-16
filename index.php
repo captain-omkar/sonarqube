@@ -2,7 +2,7 @@
 <html>
 <body>
 
-<h1>Welcome to Omkafr's PHP paage</h1>
+<h1>Welcome to PHP paage</h1>
 
 <?php
 echo "Hello World!";
